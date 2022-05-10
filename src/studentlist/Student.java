@@ -7,6 +7,7 @@ package studentlist;
  */
 public class Student {
     private String name;
+    String studentId;
 
     public Student(String name) {
         this.name = name;
