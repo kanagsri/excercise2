@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *This class represents a student in our application
- * @author Megha Patel
+ * @author Megha Patel 2022
  */
 public class Student {
     private String name;
